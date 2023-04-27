@@ -1,4 +1,8 @@
 import "../../styles/pages/aboutMe.scss";
+const serverPort = process.env.PORT || 4000;
+let Resume = require("../../image/CV_MonicaSaborido_English.pdf");
+
+console.log(`Server listening at http://localhost:${serverPort}`);
 
 function AboutMe() {
   return (
@@ -19,7 +23,8 @@ function AboutMe() {
         <div className="aboutMe__resume">
           <a
             className="aboutMe__resume--link"
-            href="../../image/CV_MonicaSaborido_English.pdf"
+            href={Resume}
+            // href={`http://localhost:${serverPort}/CV_MonicaSaborido_English.pdf`}
             download
           >
             Download my resume.
