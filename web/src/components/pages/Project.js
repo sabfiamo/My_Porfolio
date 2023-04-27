@@ -1,5 +1,9 @@
 import "../../styles/pages/project.scss";
 
+const serverPort = process.env.PORT || 4000;
+
+console.log(`Server listening at http://localhost:${serverPort}`);
+
 const Project = ({ eachProject, index }) => {
   const technologies = eachProject.technologies.map((eachTechnology) => (
     <span className="project__tecn"> {eachTechnology} </span>
@@ -21,7 +25,7 @@ const Project = ({ eachProject, index }) => {
           />
         </div> */}
         <img
-          src={eachProject.image}
+          src={`http://localhost:${serverPort}/${eachProject.image}`}
           alt="Project_Image"
           className="project__image"
         />

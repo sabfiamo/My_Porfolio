@@ -1,6 +1,6 @@
 [{
     "id":"1",
-    "image": "//localhost:4000/harry.png",
+    "image": "harry.png",
     "overImage": "potter",
     "name": "Harry Potter",
     "repo": "https://github.com/sabfiamo/HARRY-POTTER",
@@ -9,7 +9,7 @@
   },
   {
     "id":"2",
-    "image": "//localhost:4000/cocteles.png",
+    "image": "cocteles.png",
     "overImage": "card",
     "name": "Cocktail finder",
     "repo": "https://github.com/sabfiamo/COCKTAL-FINDER",
@@ -18,7 +18,7 @@
   },
   {
     "id":"3",
-    "image": "//localhost:4000/awesome.png",
+    "image": "awesome.png",
     "overImage": "card",
     "name": "Profiles cards",
     "repo": "https://github.com/sabfiamo/AWESOME-PROFILES-CARDS",
@@ -27,7 +27,7 @@
   },
   {
     "id":"4",
-    "image": "//localhost:4000/conecta conmigo.png",
+    "image": "conecta conmigo.png",
     "overImage": "we",
     "name": "Running together",
     "repo": "https://github.com/sabfiamo/RUNNING-TOGETHER",
@@ -36,7 +36,7 @@
   },
   {
     "id":"5",
-    "image": "//localhost:4000/proyectos molones.png",
+    "image": "proyectos molones.png",
     "overImage": "quotes",
     "name": "Personal project manager",
     "repo": "https://github.com/sabfiamo/PERSONAL-PROJECT-MANAGER",

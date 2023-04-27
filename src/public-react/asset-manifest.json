@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "./static/css/main.fcd31260.css",
-    "main.js": "./static/js/main.e21f3692.js",
+    "main.js": "./static/js/main.f4eae6c1.js",
     "static/media/mamoa_axeitos.jpg": "./static/media/mamoa_axeitos.8ea9ae6a5f1d36665c7c.jpg",
     "index.html": "./index.html",
     "main.fcd31260.css.map": "./static/css/main.fcd31260.css.map",
-    "main.e21f3692.js.map": "./static/js/main.e21f3692.js.map"
+    "main.f4eae6c1.js.map": "./static/js/main.f4eae6c1.js.map"
   },
   "entrypoints": [
     "static/css/main.fcd31260.css",
-    "static/js/main.e21f3692.js"
+    "static/js/main.f4eae6c1.js"
   ]
 }
