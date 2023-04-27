@@ -1,0 +1,56 @@
+.contact__container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+
+  @media (min-width: 768px) {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+.contact__description {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 80px;
+  text-align: right;
+  background-color: black;
+  min-height: 100vh;
+}
+.contact__name {
+  font-size: 40px;
+  padding: 10px;
+}
+
+.contact__experience {
+  font-size: 20px;
+  padding-left: 30%;
+  margin: 10px;
+}
+.contact__information {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: green;
+  background-image: linear-gradient(
+    to right,
+    rgba(255, 255, 255, 0.15),
+    rgba(255, 255, 255, 0.25),
+    rgba(255, 255, 255, 0.35)
+  );
+  min-height: 100vh;
+  font-size: 20px;
+  padding: 10px;
+  color: black;
+}
+.contact__icon {
+  font-size: 20px;
+  padding: 10px;
+}
+.contact__path {
+  color: white;
+  text-decoration: none;
+}

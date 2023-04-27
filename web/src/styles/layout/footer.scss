@@ -1,0 +1,27 @@
+@import "../core/variables.scss";
+
+.footer {
+  background-color: grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-top: solid 2px white;
+  height: 8vh;
+
+  &__container {
+    display: flex;
+    gap: 20px;
+    padding: 5px;
+  }
+  &__icon {
+    color: white;
+    cursor: pointer;
+    &:hover {
+      transform: scale(140%);
+    }
+    @media (min-width: 700px) {
+      font-size: 20px;
+    }
+  }
+}
