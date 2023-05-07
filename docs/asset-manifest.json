@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "./static/css/main.0055bce3.css",
+    "main.js": "./static/js/main.5800cb96.js",
+    "static/media/conectaConmigo.png": "./static/media/conectaConmigo.1134cf5143341770741f.png",
+    "static/media/harry.png": "./static/media/harry.b0e57f36f8abb6de0020.png",
+    "static/media/cocteles.png": "./static/media/cocteles.082952a1023a9ce8a8cb.png",
+    "static/media/CV_MonicaSaborido_English.pdf": "./static/media/CV_MonicaSaborido_English.e86c704de11fa42a09ff.pdf",
+    "static/media/proyectosMolones.png": "./static/media/proyectosMolones.5d598abbe62d77b2c496.png",
+    "static/media/monica.jpeg": "./static/media/monica.60abaa73e3d53997dea1.jpeg",
+    "static/media/awesome.png": "./static/media/awesome.afd13458bbdf1ed51b6c.png",
+    "static/media/guess.png": "./static/media/guess.3966b1ebc732956fab04.png",
+    "index.html": "./index.html",
+    "main.0055bce3.css.map": "./static/css/main.0055bce3.css.map",
+    "main.5800cb96.js.map": "./static/js/main.5800cb96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0055bce3.css",
+    "static/js/main.5800cb96.js"
+  ]
+}
