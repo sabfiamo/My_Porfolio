@@ -4,6 +4,7 @@ const conectaConmigo = require("../image/conectaConmigo.png");
 const awesome = require("../image/awesome.png");
 const proyectosMolones = require("../image/proyectosMolones.png");
 const guessNumber = require("../image/guess.png");
+const toTravel = require("../image/totravel.png");
 
 function getSrc(nameImage) {
   switch (nameImage) {
@@ -23,6 +24,8 @@ function getSrc(nameImage) {
       return proyectosMolones;
     case "guess":
       return guessNumber;
+    case "totravel":
+      return toTravel;
 
     default:
       break;
