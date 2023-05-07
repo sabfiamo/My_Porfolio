@@ -1,0 +1,58 @@
+[{
+    "id":"1",
+    "image": "harry",
+       "name": "Harry Potter",
+    "repo": "https://github.com/sabfiamo/HARRY-POTTER",
+    "demo": "https://sabfiamo.github.io/HARRY-POTTER/",
+    "technologies": ["HTML", "SASS", "JavaScript", "React"]  
+  },
+  {
+    "id":"2",
+    "image": "cocteles",  
+    "name": "Cocktail finder",
+    "repo": "https://github.com/sabfiamo/COCKTAL-FINDER",
+    "demo": "https://sabfiamo.github.io/COCKTAL-FINDER/",
+    "technologies": ["HTML", "SASS", "JavaScript", "React"]
+  },
+  {
+    "id":"3",
+    "image": "awesome",   
+    "name": "Profiles cards",
+    "repo": "https://github.com/sabfiamo/AWESOME-PROFILES-CARDS",
+    "demo": "http://beta.adalab.es/project-promo-s-module-2-team-1/",
+    "technologies": ["HTML", "SASS", "JavaScript", "React"]
+  },
+  {
+    "id":"4",
+    "image": "conectaConmigo",    
+    "name": "Running together",
+    "repo": "https://github.com/sabfiamo/RUNNING-TOGETHER",
+    "demo": "https://sabfiamo.github.io/RUNNING-TOGETHER/",
+    "technologies": ["HTML", "CSS", "SASS"]
+  },
+  {
+    "id":"5",
+    "image": "proyectosMolones",    
+    "name": "Personal project manager",
+    "repo": "https://github.com/sabfiamo/PERSONAL-PROJECT-MANAGER",
+    "demo": "https://proyectos-molones-code-queens.onrender.com/",
+    "technologies": ["HTML", "SASS", "React", "Node", "Express", "MySQL Workbench"]
+  },
+    {
+    "id":"6",
+    "image": "guess",    
+    "name": "Guess the number",
+    "repo": "https://github.com/sabfiamo/GUESS-THE-NUMBER",
+    "demo": "https://sabfiamo.github.io/GUESS-THE-NUMBER//",
+    "technologies": ["HTML", "SASS","CSS", "JavaScript" ]
+  },
+  {
+    "id":"7",
+    "image": "totravel",
+       "name": "Travel to...",
+    "repo": "https://github.com/sabfiamo/TO-TRAVEL",
+    "demo": "https://sabfiamo.github.io/TO-TRAVEL/",
+    "technologies": ["HTML", "SASS", "JavaScript", "React", "Materialize"]  
+  }
+]
+
